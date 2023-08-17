@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;Lets+Code;&center=true&size=30">
+  </a>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Ashutosh Ardu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
